@@ -1,5 +1,5 @@
 
-# Basic Calculator
+# Happy Independence Day
 
 It's a wishing website for Happy Independence Day which was designed by me. It's my Guvi-Zen class Day-16 (Async : Day-1) Task.
 
