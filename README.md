@@ -18,12 +18,12 @@ I learned Callback hell and how to use it in Javascript.
 
 ## Website
 
-[Happy_Independence_Day](https://basic-calculator-kohl.vercel.app/)
+[Happy_Independence_Day](https://happy-independence-day-lovat.vercel.app/)
 
 
 ## Screenshots
 
-![App Screenshot](./Img/indiaGif5.gif)
+![App Screenshot](./Img/demo.png)
 
 
 ## Feedback
